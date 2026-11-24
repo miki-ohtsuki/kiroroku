@@ -445,3 +445,9 @@
 **Issueの見積もりが難しい**
 Tailwind CSSなど未経験の技術については、実装に必要な作業量を把握しきれず、Issueの工数見積もりが難しいと感じています。
 調査や学習にかかる時間も考慮しながら、開発を進めたいと考えています。
+
+---
+
+### 11. 画面遷移図
+
+https://www.figma.com/design/Cbhz9st4tU2Hcxf44069hu/kiroroku?node-id=0-1&t=78PDBRmWHZ9SO64C-1
