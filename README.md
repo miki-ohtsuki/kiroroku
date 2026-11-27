@@ -450,12 +450,12 @@ Tailwind CSSなど未経験の技術については、実装に必要な作業�
 
 ### 11. 画面遷移図
 
-https://www.figma.com/design/Cbhz9st4tU2Hcxf44069hu/kiroroku?node-id=0-1&t=78PDBRmWHZ9SO64C-1
+https://www.figma.com/design/Cbhz9st4tU2Hcxf44069hu/kiroroku?node-id=1-78&t=x9yjeaT8ui7zu4jK-1
 
 ---
 
 ### 12. ER図
 
-[![Image from Gyazo](https://i.gyazo.com/4f086a3a0676f958582390cca9d85601.png)]
+![Image from Gyazo](https://i.gyazo.com/4f086a3a0676f958582390cca9d85601.png)
 
 ---
